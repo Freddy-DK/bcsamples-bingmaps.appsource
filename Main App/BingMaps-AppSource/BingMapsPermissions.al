@@ -1,4 +1,4 @@
-permissionset 74119 "BingMaps"
+permissionset 70074119 "BingMaps"
 {
     Caption = 'BingMaps';
     Assignable = true;
